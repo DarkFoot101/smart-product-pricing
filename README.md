@@ -1,4 +1,9 @@
-## Smart Product Pricing Challenge
+# <div align="center"> Smart Product Pricing Challenge
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![XGBoost](https://img.shields.io/badge/Model-XGBoost-green?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/)
+[![Llama 3](https://img.shields.io/badge/LLM-Meta_Llama_3-purple?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com/llama/)
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]()
+</div>
 
 In e-commerce, determining the optimal price point for products is crucial for marketplace success and customer satisfaction. Your challenge is to develop an ML solution that analyzes product details and predict the price of the product. The relationship between product attributes and pricing is complex - with factors like brand, specifications, product quantity directly influence pricing. Your task is to build a model that can analyze these product details holistically and suggest an optimal price.
 
@@ -50,15 +55,7 @@ SMAPE = |100-120| / ((|100| + |120|)/2) * 100% = 18.18%
 
 **Note:** SMAPE is bounded between 0% and 200%. Lower values indicate better performance.
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
-[![XGBoost](https://img.shields.io/badge/Model-XGBoost-green)](https://xgboost.readthedocs.io/)
-[![Llama 3](https://img.shields.io/badge/LLM-Meta--Llama--3--8B-purple)](https://ai.meta.com/llama/)
-[![Status](https://img.shields.io/badge/Status-Completed-success)]()
-
 > A multi-modal hybrid architecture that combines statistical regression (XGBRegressor) with semantic reasoning (LLM) to predict retail product prices with high accuracy.
-
----
-## Hybrid AI Price Prediction Pipeline
 
 ---
 
